@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Expense-Tracker🏦
 
 Overview:
 The Expense Tracker is a simple GUI-based application built using Python's Tkinter for managing personal expenses. It allows users to add expenses under different categories, view transactions, and generate visual reports like pie charts and bar charts based on spending categories.
